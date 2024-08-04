@@ -1,0 +1,16 @@
+Package: maptool
+Version: 1.14.3
+Architecture: amd64
+Maintainer: RPTools <Unknown>
+Installed-Size: 372215
+Depends: libc6, xdg-utils, zlib1g
+Provides: maptool
+Filename: ./maptool_1.14.3-amd64.deb
+Size: 308861832
+MD5sum: 0caa0dd32d546e9793313e6ed8459c2e
+SHA1: 0f1b8f6e06985c433247bb4ea1ab23d04eae85b4
+SHA256: b142130de82dd96636d84caff184c7af9065e7638ee72c38c53f179db7caadfb
+Section: misc
+Priority: optional
+Description: Virtual Tabletop for playing roleplaying games with remote players or face to face.
+

@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/rptools-maptool-unofficial-ppa-repo.gpg] https://github.com/where-is-john-galt/rptools-maptool-unofficial-ppa-repo ./
